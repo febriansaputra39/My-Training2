@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fef8fc;
+  margin: 0;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+}
